@@ -13,7 +13,7 @@ Outside of work, I enjoy read books about motivation or improving an English con
 
 <a href="https://www.soapui.org/"><img align="left" alt="SoapUI" title="SoapUI" width="21px" src="https://github.com/TikaYuliLestari/tika-resolusi/blob/9b549228ebb2b94f6fa3d296671119c30c1e2aad/soapuif.png" style="max-width: 100%;"></a>
 
-<a href="https://www.postman.com/"><img align="left" alt="Swegger" title="Postman" width="21px" src="https://github.com/TikaYuliLestari/tika-resolusi/blob/9b549228ebb2b94f6fa3d296671119c30c1e2aad/swagger.png" style="max-width: 100%;"></a>
+<a href="https://www.postman.com/"><img align="left" alt="Swagger" title="Swagger" width="21px" src="https://github.com/TikaYuliLestari/tika-resolusi/blob/9b549228ebb2b94f6fa3d296671119c30c1e2aad/swagger.png" style="max-width: 100%;"></a>
 
 <br>
 <br></p>
