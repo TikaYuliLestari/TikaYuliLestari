@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 My name is Tika Yuli Lestari, you can call me Tika. I Experience as IT Quality Assurance with over 4 years of experience in Banking Industry and IT Consulting Services, Eager to contribute to team success through hard work, attention to detail and motivated to learn, and now :
 - 🔭 I’m currently working on Phincon
